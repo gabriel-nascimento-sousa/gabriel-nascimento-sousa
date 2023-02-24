@@ -2,7 +2,7 @@
 ##
 <div style="dsplay: inline_block;" align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabriel-nascimento-sousa&show_icons=true&theme=transparent">
-  <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-nascimento-sousa&layout=compact">
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-nascimento-sousa&langs_count=5&layout=compact">
 </div>
 
 ##
