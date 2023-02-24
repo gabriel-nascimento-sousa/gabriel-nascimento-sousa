@@ -1,8 +1,8 @@
 
 ##
-<div style="dsplay: inline_block">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=gabriel-nascimento-sousa&show_icons=true&theme=transparent">
-  <img  width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-nascimento-sousa&layout=compact">
+<div style="dsplay: inline_block; align-itens: center;">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gabriel-nascimento-sousa&show_icons=true&theme=transparent">
+  <img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-nascimento-sousa&layout=compact">
 </div>
 
 ##
