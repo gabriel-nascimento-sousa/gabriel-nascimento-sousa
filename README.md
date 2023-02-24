@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ##
 <div style="dsplay: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-nascimento-sousa&show_icons=true&theme=transparent">
